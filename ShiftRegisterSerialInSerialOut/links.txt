@@ -1,0 +1,16 @@
+explain concept:
+https://www.youtube.com/watch?v=Ut2SjYuVBM0
+
+
+MyHDL:
+https://www.youtube.com/watch?v=LSgOpvr8FII&list=PLN13mrcNz7atw3X3XqVmoXzBjcHItJvDi
+http://docs.myhdl.org/en/stable/manual/conversion_examples.html
+https://media.readthedocs.org/pdf/myhdl/0.8-maintenance/myhdl.pdf
+https://fpga-designs-with-myhdl.readthedocs.io/en/latest/myhdl/designEx.html
+
+
+Bluespec:
+http://wiki.bluespec.com/Home/Interfaces
+http://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/reference-guide.pdf
+https://www.cl.cam.ac.uk/teaching/1819/ECAD+Arch/bluespec.html
+http://wiki.bluespec.com/Home/Interfaces/FIFO-Interface-Example
