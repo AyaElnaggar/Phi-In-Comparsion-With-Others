@@ -1,0 +1,10 @@
+always_comb()
+The always_comb decorator is used to describe combinatorial logic.
+
+always_seq(edge, reset)
+The always_seq decorator is used to describe sequential (clocked) logic.
+
+links:
+http://docs.myhdl.org/en/stable/manual/rtl.html
+https://media.readthedocs.org/pdf/myhdl/latest/myhdl.pdf
+http://www.myhdl.org/docs/examples/jc2.html

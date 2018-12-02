@@ -1,0 +1,2 @@
+read operation: not clocked
+write operation: clocked

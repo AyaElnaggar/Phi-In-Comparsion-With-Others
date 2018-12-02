@@ -1,0 +1,27 @@
+module regfile(
+  CLK: @clock Input,
+  A1: Input[4..0],
+  A2: Input[4..0],
+  RD1: Output[31..0],
+  RD2: Output[31..0],
+  WE3: Input,
+  A3: Input[4..0],
+  WD3: Input[31..0],
+){
+
+  Register[31..0] STORAGE[7..0];
+  for i in 0..7 {
+    STORAGE[i] = 32d0;
+  }
+
+  @elseZero
+  async {
+    if(WE3){
+      STORAGE[A3].data = WD3;
+    }
+  }
+
+  RD1 = STORAGE[A1];
+  RD2 = STORAGE[A2];
+
+}

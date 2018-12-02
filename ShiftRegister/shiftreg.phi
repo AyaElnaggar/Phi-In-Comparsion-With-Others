@@ -1,0 +1,12 @@
+module shiftreg (
+  Clock: @clock Input,
+  SI: Input,
+  SO: Output
+){
+
+  Register [3..0] Q_reg = 4b0;
+
+  Q_reg.data = [Q_reg[2..0],SI];
+  SO = Q_reg.data[3];
+
+}
