@@ -23,3 +23,15 @@ https://chisel.eecs.berkeley.edu/latest/chisel-tutorial.pdf
 https://chisel.eecs.berkeley.edu/2.2.0/chisel-cheatsheet.pdf
 https://chisel.eecs.berkeley.edu/2.2.0/getting-started.html
 https://www.instructables.com/id/Getting-Started-With-Chisel/
+
+
+VHDL:
+https://www.edaboard.com/showthread.php?231360-Using-Multiple-Processes-In-VHDL
+http://vhdlguru.blogspot.com/2010/03/concatenation-operator-in-vhdl.html
+http://dftgroup.valuehost.pro/Elsevier/9780750683975/PDF/AppG-H8397_Mod1.pdf
+http://vhdlguru.blogspot.com/2010/03/positive-edge-triggered-jk-flip-flop.html
+http://esd.cs.ucr.edu/labs/tutorial/mux.vhd
+http://esd.cs.ucr.edu/labs/tutorial/
+
+Lucid:
+https://electrovolt.ir/wp-content/uploads/2018/03/Learning-FPGAs-ElectroVolt.ir_.pdf
