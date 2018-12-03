@@ -33,5 +33,6 @@ http://vhdlguru.blogspot.com/2010/03/positive-edge-triggered-jk-flip-flop.html
 http://esd.cs.ucr.edu/labs/tutorial/mux.vhd
 http://esd.cs.ucr.edu/labs/tutorial/
 
+
 Lucid:
 https://electrovolt.ir/wp-content/uploads/2018/03/Learning-FPGAs-ElectroVolt.ir_.pdf
