@@ -14,3 +14,12 @@ http://wiki.bluespec.com/Home/Interfaces
 http://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/reference-guide.pdf
 https://www.cl.cam.ac.uk/teaching/1819/ECAD+Arch/bluespec.html
 http://wiki.bluespec.com/Home/Interfaces/FIFO-Interface-Example
+
+
+Chisel:
+https://github.com/ucb-bar/chisel-tutorial/tree/release/src/main/scala/examples
+https://chisel.eecs.berkeley.edu/tutorial-20120618.pdf
+https://chisel.eecs.berkeley.edu/latest/chisel-tutorial.pdf
+https://chisel.eecs.berkeley.edu/2.2.0/chisel-cheatsheet.pdf
+https://chisel.eecs.berkeley.edu/2.2.0/getting-started.html
+https://www.instructables.com/id/Getting-Started-With-Chisel/
