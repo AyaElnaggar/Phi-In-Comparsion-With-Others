@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from myhdl import *
 
 def shiftreg (SO, SI, Clock):
