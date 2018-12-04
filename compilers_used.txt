@@ -1,0 +1,14 @@
+Verilog:
+https://www.swarthmore.edu/NatSci/mzucker1/e15_f2014/iverilog.html
+
+Lucid:
+https://alchitry.com/pages/mojo-ide
+https://github.com/embmicro/components-library/tree/master/base/mojo-v3/Lucid
+
+Chisel:
+https://github.com/ucb-bar/chisel-tutorial
+
+MyHDL:
+http://www.myhdl.org/start/installation.html
+
+
